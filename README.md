@@ -19,7 +19,7 @@
 <p>
    💼 I'm currently interning at [Dpointgroup](https://www.dpointgroup.com/), where I'm gaining valuable experience in web development.
   <br>
-  🌱 I’m currently learning Flutter and Swift.
+  🌱 I’m currently learning React Native and Swift.
   <br>
   💬 Ask me about anything related to web/mobile app development.
   <br>

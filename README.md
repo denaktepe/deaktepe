@@ -16,17 +16,15 @@
   I'm Samet Çağrı. I'm a student passionate about mobile and web application development. I'm currently studying software engineering and love exploring new technologies to build awesome apps.
 </p>
 
-<ul>
-  <li>
-    I'm currently interning at [Dpointgroup](https://www.dpointgroup.com/)
-  </li>
-  <li>
-    I’m currently learning React Native and Swift.
-  </li>
-  <li>
-   How to reach me: sametcagriaktepe@gmail.com.
-  </li>
-</ul>
+<p>
+    💼 I'm currently interning at [Dpointgroup](https://www.dpointgroup.com/), where I'm gaining valuable experience in web development.
+   <br>
+   🌱 I’m currently learning React Native and Swift.
+   <br>
+   💬 Ask me about anything related to web/mobile app development.
+   <br>
+   📫 How to reach me: sametcagriaktepe@gmail.com.
+ </p>
 
 <p>
   Check out my repositories below and explore the projects I've been working on during my learning journey. Your feedback and suggestions are always welcome!

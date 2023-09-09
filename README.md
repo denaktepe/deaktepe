@@ -13,15 +13,15 @@
 </p>
 
 <p>
-  I'm Samet Çağrı. I'm a student passionate about mobile and web application development. I'm currently studying software engineering and love exploring new technologies to build awesome apps.
+  I'm Samet Çağrı. I'm a student passionate about iOS Development. I'm currently studying software engineering and love exploring new technologies to build awesome apps.
 </p>
 
 <p>
     💼 I'm currently interning at [Dpointgroup](https://www.dpointgroup.com/), where I'm gaining valuable experience in web development.
    <br>
-   🌱 I’m currently learning React Native.
+   🌱 I’m currently learning iOS Development.
    <br>
-   💬 Ask me about anything related to web/mobile app development.
+   💬 Ask me about anything related to iOS app development.
    <br>
    📫 How to reach me: sametcagriaktepe@gmail.com.
  </p>

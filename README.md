@@ -17,16 +17,6 @@
 </p>
 
 <p>
-    💼 I'm currently interning at [Dpointgroup](https://www.dpointgroup.com/), where I'm gaining valuable experience in web development.
-   <br>
-   🌱 I’m currently learning iOS Development.
-   <br>
-   💬 Ask me about anything related to iOS app development.
-   <br>
-   📫 How to reach me: sametcagriaktepe@gmail.com.
- </p>
-
-<p>
   Check out my repositories below and explore the projects I've been working on during my learning journey. Your feedback and suggestions are always welcome!
 </p>
 
@@ -39,5 +29,5 @@
 
 
 <p>
-  Ready to code? 💪 
+  Rock the iOS Apps 💪 
 </p>

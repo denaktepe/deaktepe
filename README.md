@@ -29,5 +29,5 @@
 
 
 <p>
-  Rock the iOS Apps 💪 
+  Rock iOS Apps 💪 
 </p>

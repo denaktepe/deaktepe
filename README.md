@@ -29,5 +29,5 @@
 
 
 <p>
-  Rock iOS Apps 💪 
+  I create iOS Apps 💪 
 </p>

@@ -1,4 +1,4 @@
-<h1>Hi, There!</h1>
+<h1>Hello, Hola, Hallo, Merhaba.</h1>
 
 <p>
   <a href="https://www.linkedin.com/in/sametcagriaktepe/" target="_blank">
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  I'm Samet Çağrı. I'm a student passionate about iOS Development. I'm currently studying software engineering and love exploring new technologies to build awesome apps.
+  Currently working/studying on iOS Development. 💪
 </p>
 
 <p>
@@ -24,10 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=denaktepe&show_icons=true&hide_border=true&&count_private=true&theme=radical&border_radius=1em" /> 
   <img style="float: end;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaktepe&show_icons=true&hide_border=true&layout=compact&&count_private=true&theme=radical&langs_count=8&border_radius=1em%22/%3E" />
 </div>
-
-
-
-
-<p>
-  I create iOS Apps 💪 
-</p>

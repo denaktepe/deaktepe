@@ -1,4 +1,4 @@
-<h1>Hello, Hola, Hallo, Merhaba.</h1>
+<h1>Hello, Hola, Hallo, Merhaba</h1>
 
 <p>
   <a href="https://www.linkedin.com/in/sametcagriaktepe/" target="_blank">

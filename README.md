@@ -7,9 +7,6 @@
   <a href="https://twitter.com/denaktepe" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter">
   </a>
-  <a href="https://github.com/denaktepe" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github">
-  </a>
 </p>
 
 <p>

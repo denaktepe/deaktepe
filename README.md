@@ -5,7 +5,10 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://twitter.com/cagriaktpe" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter">
+    <img alt="X" src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=x">
+  </a>
+  <a href="https://instagram.com/cagriaktpe" target="_blank">
+    <img alt="Instramgram" src="https://img.shields.io/badge/Instagram-Follow-blue?style=flat-square&logo=instagram">
   </a>
 </p>
 

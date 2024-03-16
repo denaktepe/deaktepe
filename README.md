@@ -26,3 +26,16 @@
 </div>
 
 
+<div>
+  <h1>My Apps</h1>
+</div>
+  <p>
+      <a href="https://apps.apple.com/us/app/bdaybuddy/id6476773266?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/b6/3f/b0b63f80-c841-18cf-e8fb-5c6dbe764893/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/540x540bb.jpg" alt="BdayBuddy" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+      </a>   
+    <img src="icon.png" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+  </p>
+
+
+
+
+

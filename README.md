@@ -25,9 +25,8 @@
     <a href="https://apps.apple.com/tr/app/qr-wizard-qr-olu%C5%9Fturucu/id6480342083?l=tr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
           <img src="icon.png" style="width: 75px; height: 75px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
           </a>
-
-    
-      
+<a href="https://apps.apple.com/tr/app/aicreation-ai-image-generator/id6736877954?l=tr" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/61/80/37618087-0490-4f2f-f46b-03927183dfca/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/540x540bb.webp" alt="BdayBuddy" style="width: 75px; height: 75px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
+      </a> 
   </p>
 
 
